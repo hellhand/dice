@@ -1,0 +1,25 @@
+# BepInEx Plugin Development
+# Ignore BepInEx DLLs and other built files
+*.dll
+*.pdb
+*.exe
+*.mdb
+*.log
+
+# Visual Studio specific files
+.vs/
+*.sln
+*.suo
+*.user
+*.userprefs
+*.ide
+
+# MacOS Application files
+.DS_Store
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Rider specific files
+.idea/
